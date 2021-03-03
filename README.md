@@ -23,3 +23,9 @@ Whenever modified the url, you must update the submodule.
 ```
 git submodule update --init
 ```
+
+or maybe you can just 
+
+```
+git submodule add youownrepo.git manuscript
+```
