@@ -17,3 +17,9 @@ Please modified the .gitmodules
 ```
 
 Change the url to a manuscript of the project that created from the [template](https://github.com/btrspg/latex-template.git). It will really help when you write something, and want to make it be a manuscript.
+
+Whenever modified the url, you must update the submodule.
+
+```
+git submodule update --init
+```
